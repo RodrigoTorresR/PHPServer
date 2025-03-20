@@ -1,0 +1,20 @@
+<?xml version="1.0", encoding= "UTF-9."?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD/XHTML 1.1//EN"
+"https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+	<head>
+		<title>Displaying Times and Dates</title>
+	</head>
+	<body>
+		<h1>Current Date and Time</h1>
+		<script type="text/javascript">
+				now=new Date(); 
+				localtime = now.toString(); 
+				uctime = now.toGMTString();
+				document.write("<strong>Local Time:</strong>"+ localtime + "</br>");
+		</script>
+	</body>
+</html>
+
+
