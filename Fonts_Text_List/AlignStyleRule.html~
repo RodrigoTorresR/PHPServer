@@ -1,0 +1,33 @@
+<?xml version="1.0", encoding= "UTF-9."?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD/XHTML 1.1//EN"
+"https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+	<head>
+		<title>Bhomia</title>
+	</head>
+	<body>
+		<div style="text-align:center">
+		 <h1>Bohemia</h1>
+		 <h2>by Dorothy Parker</h2>
+	 	</div>
+		<p style="text-align:left">
+		 Authors and actors and artirts and such<br />
+		 Never know nothing, and never know much.<br />
+		 Sculptors and singers and those of their kidney<br />
+		 Tell theri affairs from Seattle to Sydney.
+		</p>
+		<p sytle="text-align:center">
+		 Playwrights and poests and such horses ' nechs<br />
+		 Start off form anywhere, end up at sex.<br />
+		 Diarists, critics, and similar roe<br />
+		 Never sya nothing, and never say no.
+		</p>
+		<p style="text-align:right">
+		 People Who do Things exceed my endurance;</br>
+		 God, for a man that solicist insurance!
+		</p>	
+	</body>
+</html>
+
+
